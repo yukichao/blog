@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: "Yuki's Blog",
-  domain: 'www.zhaoyuqi.com.cn',
+  domain: 'zhaoyuqi.com.cn',
   author: 'Yuki',
 
   // open graph metadata (optional)
