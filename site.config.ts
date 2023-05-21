@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Yuki's Blog",
+  name: "ZHAO YUQI",
   domain: 'zhaoyuqi.com.cn',
   author: 'Yuki',
 
@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Example Next.js Notion Starter Kit Site',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'kikilovesyou__',
+  github: 'yukichao',
+  linkedin: 'ACoAACvEXzoBUfGi9YcO7M2KrBvDfdSFH6uVpHA',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
