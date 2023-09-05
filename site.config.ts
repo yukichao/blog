@@ -9,8 +9,8 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "ZHAO YUQI",
-  domain: 'zhaoyuqi.com.cn',
+  name: "YUKI CHAO",
+  domain: 'yukichao.work',
   author: 'Yuki',
 
   // open graph metadata (optional)
@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   twitter: 'kikilovesyou__',
   github: 'yukichao',
-  linkedin: 'ACoAACvEXzoBUfGi9YcO7M2KrBvDfdSFH6uVpHA',
+  linkedin: 'yuki-chao',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
